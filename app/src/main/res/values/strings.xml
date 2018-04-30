@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">8ball</string>
+    <string name="button_text">Ask</string>
+    <string name="lable">Make everyday decisions easier!</string>
+</resources>
